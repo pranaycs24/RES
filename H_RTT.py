@@ -32,21 +32,25 @@ def getKey(item):
 
 def RTT_Heu(index, n, bin, pres, ares, load, price):
 	lres,bres,bg,pb=[],[],[],[]
-	obj=res_data(lres, bres, bg, pb)
+	#obj=res_data(lres, bres, bg, pb)
+	obj=res_one_to(lres, bres, bg, pb,1)
 	#print('0 '+str(obj))
 	#print (obj)print(bg)
 	for i in xrange(n):
 		pr=lres[i]+bres[i]
 		if pr>ares[i]:
-			#print lres[i]
+			print ("intex "+str(i))
 			rem=pr-ares[i]
 			print bres
 			ob=search(pb, price, bg, lres, bres, ares[i], rem, i, bin, n )
 			obj+=ob
 			#print ('1 '+str(obj))
 		elif pr<ares[i]:
+			print ("intex "+str(i))
 			rem_load=load[i]-lres[i]+min(0,pb[i])
+			print ("rem "+str(i)+" "+str(rem_load))
 			extra=ares[i]-pr
+			print(str(i)+" "+str(extra))
 			if bg[i]>0:
 				#print(extra)
 				ex_bg=min(bg[i],extra)
@@ -59,10 +63,12 @@ def RTT_Heu(index, n, bin, pres, ares, load, price):
 				#print(obj)
 			if extra>0:
 				ch_amt=20-max(0,pb[i])
+
 				#print ('ch_amt '+str(ch_amt))
 				ld_f=min(max(0,extra-ch_amt), rem_load)
 				obj-=ld_f*price[i]
 				#print('3 '+str(obj))
+				print(str(i)+" "+str(extra))
 				load[i]-=ld_f
 				extra-=ld_f
 				if extra>0:
@@ -117,7 +123,7 @@ def alloc(price, bg, load, pb, bres, lres, i, n, extra):
 		if extra==0:
 			return obj
 	if extra>0:
-		pb[i]+=min(20, pb[i]+extra)
+		pb[i]=min(20, pb[i]+extra)
 	return obj
 
 def search(pb, price, bg, lres, bres, ares_v, rem, i, bin, n ):
@@ -135,10 +141,12 @@ def search(pb, price, bg, lres, bres, ares_v, rem, i, bin, n ):
 			bres[i]=0
 			bs=bstate(pb, bin, i)
 			if bs>0:
+				print pb
 				serve=min([rem_load, bs, pb[i]+30])
 				rem_load-=serve
 				obj+=rem_load*price[i]
 				pb[i]-=serve
+				print( str(i)+" "+str(pb[i])+" "+str(bs))
 				rem-=rem_load
 			else:
 				obj+=rem_load*price[i]

@@ -1,0 +1,900 @@
+0 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3151..920) + 1205), step = 1, best = 284)
+time 360.24
+pb 2 de 0 bg 0 bres 2 lres 19
+pb -2 de 1 bg 0 bres 0 lres 16
+pb 2 de 0 bg 0 bres 2 lres 23
+pb -2 de 1 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 20
+1 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2828..840) + 955), step = 1, best = 116)
+time 360.23
+pb 5 de 0 bg 0 bres 5 lres 13
+pb -5 de 1 bg 0 bres 0 lres 21
+pb 11 de 0 bg 0 bres 11 lres 11
+pb -2 de 1 bg 0 bres 0 lres 19
+pb -9 de 1 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 12
+2 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3058..880) + 1046), step = 1, best = 153)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 24
+pb 0 de 0 bg 0 bres 0 lres 25
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 15
+3 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2842..840) + 1076), step = 1, best = 172)
+time 360.22
+pb 2 de 0 bg 0 bres 2 lres 17
+pb 20 de 0 bg 3 bres 17 lres 0
+pb -5 de 1 bg 0 bres 0 lres 23
+pb -13 de 1 bg 0 bres 0 lres 20
+pb -4 de 1 bg 0 bres 0 lres 24
+pb 0 de 0 bg 0 bres 0 lres 12
+4 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2958..880) + 1060), step = 1, best = 168)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 16 de 0 bg 0 bres 16 lres 5
+pb -3 de 1 bg 0 bres 0 lres 23
+pb -11 de 1 bg 0 bres 0 lres 16
+pb -2 de 1 bg 0 bres 0 lres 22
+5 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3204..940) + 1274), step = 1, best = 294)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 6 de 0 bg 0 bres 6 lres 20
+pb 20 de 0 bg 1 bres 19 lres 0
+pb -18 de 1 bg 0 bres 0 lres 15
+pb -8 de 1 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 21
+6 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3080..900) + 1187), step = 1, best = 237)
+time 360.22
+pb 1 de 0 bg 0 bres 1 lres 20
+pb 20 de 0 bg 1 bres 19 lres 0
+pb -13 de 1 bg 0 bres 0 lres 19
+pb 8 de 0 bg 0 bres 8 lres 9
+pb -9 de 1 bg 0 bres 0 lres 19
+pb -7 de 1 bg 0 bres 0 lres 22
+7 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2863..880) + 1000), step = 1, best = 196)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 2 de 0 bg 0 bres 2 lres 17
+pb 20 de 0 bg 0 bres 20 lres 0
+pb -9 de 1 bg 0 bres 0 lres 19
+pb -13 de 1 bg 0 bres 0 lres 14
+8 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2966..920) + 1142), step = 1, best = 283)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 14
+pb 5 de 0 bg 0 bres 5 lres 15
+pb 20 de 0 bg 3 bres 17 lres 0
+pb -13 de 1 bg 0 bres 0 lres 15
+pb -5 de 1 bg 0 bres 0 lres 22
+pb -7 de 1 bg 0 bres 0 lres 17
+9 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2914..880) + 1067), step = 1, best = 173)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 20 de 0 bg 0 bres 20 lres 1
+pb -8 de 1 bg 0 bres 0 lres 13
+pb 4 de 0 bg 0 bres 4 lres 16
+pb -3 de 1 bg 0 bres 0 lres 20
+pb -13 de 1 bg 0 bres 0 lres 19
+10 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3196..900) + 1186), step = 1, best = 195)
+time 360.22
+pb 1 de 0 bg 0 bres 1 lres 18
+pb 20 de 0 bg 0 bres 20 lres 1
+pb -5 de 1 bg 0 bres 0 lres 24
+pb -5 de 1 bg 0 bres 0 lres 23
+pb -11 de 1 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 19
+11 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2945..880) + 998), step = 1, best = 134)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 14 de 0 bg 0 bres 14 lres 3
+pb 3 de 0 bg 0 bres 3 lres 19
+pb -4 de 1 bg 0 bres 0 lres 19
+pb -9 de 1 bg 0 bres 0 lres 16
+pb -4 de 1 bg 0 bres 0 lres 21
+12 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3067..900) + 1073), step = 1, best = 167)
+time 360.23
+pb 3 de 0 bg 0 bres 3 lres 12
+pb -3 de 1 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 3 de 0 bg 0 bres 3 lres 18
+pb -3 de 1 bg 0 bres 0 lres 23
+pb 0 de 0 bg 0 bres 0 lres 22
+13 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3146..900) + 1125), step = 1, best = 161)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 2 de 0 bg 0 bres 2 lres 21
+pb 9 de 0 bg 0 bres 9 lres 12
+pb -11 de 1 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 22
+14 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2963..880) + 1072), step = 1, best = 164)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 3 de 0 bg 0 bres 3 lres 14
+pb -3 de 1 bg 0 bres 0 lres 24
+pb 15 de 0 bg 0 bres 15 lres 5
+pb -15 de 1 bg 0 bres 0 lres 15
+15 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3071..880) + 1106), step = 1, best = 187)
+time 360.24
+pb 3 de 0 bg 0 bres 3 lres 16
+pb -3 de 1 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 9 de 0 bg 0 bres 9 lres 14
+pb -9 de 1 bg 0 bres 0 lres 20
+16 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3066..940) + 1289), step = 1, best = 441)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 14 de 0 bg 0 bres 14 lres 4
+pb -14 de 1 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 6 de 0 bg 0 bres 6 lres 10
+pb -6 de 1 bg 0 bres 0 lres 16
+17 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3009..880) + 1081), step = 1, best = 188)
+time 360.23
+pb 1 de 0 bg 0 bres 1 lres 16
+pb 18 de 0 bg 0 bres 18 lres 2
+pb -10 de 1 bg 0 bres 0 lres 21
+pb -9 de 1 bg 0 bres 0 lres 19
+pb 2 de 0 bg 0 bres 2 lres 19
+pb -2 de 1 bg 0 bres 0 lres 19
+18 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2877..860) + 1097), step = 1, best = 244)
+time 360.24
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 13 de 0 bg 0 bres 13 lres 9
+pb -3 de 1 bg 0 bres 0 lres 20
+pb 16 de 0 bg 0 bres 16 lres 7
+pb -9 de 1 bg 0 bres 0 lres 21
+pb -17 de 1 bg 0 bres 0 lres 10
+19 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2860..880) + 1072), step = 1, best = 287)
+time 360.23
+pb 1 de 0 bg 0 bres 1 lres 19
+pb -1 de 1 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 13 de 0 bg 0 bres 13 lres 2
+pb -13 de 1 bg 0 bres 0 lres 15
+20 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2997..920) + 1193), step = 1, best = 270)
+time 360.23
+pb 3 de 0 bg 0 bres 3 lres 14
+pb -3 de 1 bg 0 bres 0 lres 15
+pb 20 de 0 bg 4 bres 16 lres 0
+pb -7 de 1 bg 0 bres 0 lres 24
+pb 1 de 0 bg 0 bres 1 lres 16
+pb -14 de 1 bg 0 bres 0 lres 18
+21 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3046..900) + 1137), step = 1, best = 204)
+time 360.22
+pb 3 de 0 bg 0 bres 3 lres 14
+pb -3 de 1 bg 0 bres 0 lres 20
+pb 18 de 0 bg 0 bres 18 lres 6
+pb -8 de 1 bg 0 bres 0 lres 16
+pb -8 de 1 bg 0 bres 0 lres 17
+pb -2 de 1 bg 0 bres 0 lres 26
+22 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2904..860) + 1007), step = 1, best = 138)
+time 360.24
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 15 de 0 bg 0 bres 15 lres 8
+pb 2 de 0 bg 0 bres 2 lres 21
+pb -6 de 1 bg 0 bres 0 lres 17
+pb -11 de 1 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 18
+23 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3188..960) + 1289), step = 1, best = 383)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 16 de 0 bg 0 bres 16 lres 7
+pb -16 de 1 bg 0 bres 0 lres 14
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 20
+24 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3555..1020) + 1463), step = 1, best = 360)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 25
+pb 20 de 0 bg 0 bres 20 lres 0
+pb -14 de 1 bg 0 bres 0 lres 18
+pb -6 de 1 bg 0 bres 0 lres 20
+pb 13 de 0 bg 0 bres 13 lres 10
+pb -13 de 1 bg 0 bres 0 lres 18
+25 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3022..880) + 1232), step = 1, best = 330)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 14 de 0 bg 0 bres 14 lres 12
+pb -14 de 1 bg 0 bres 0 lres 17
+pb 13 de 0 bg 0 bres 13 lres 5
+pb -13 de 1 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 20
+26 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2979..880) + 1093), step = 1, best = 162)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 14
+pb 13 de 0 bg 0 bres 13 lres 2
+pb 1 de 0 bg 0 bres 1 lres 24
+pb -5 de 1 bg 0 bres 0 lres 23
+pb 3 de 0 bg 0 bres 3 lres 25
+pb -12 de 1 bg 0 bres 0 lres 18
+27 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2852..860) + 1114), step = 1, best = 232)
+time 360.24
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 20 de 0 bg 0 bres 20 lres 4
+pb -15 de 1 bg 0 bres 0 lres 16
+pb -5 de 1 bg 0 bres 0 lres 17
+pb 12 de 0 bg 0 bres 12 lres 6
+pb -12 de 1 bg 0 bres 0 lres 20
+28 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2940..860) + 1073), step = 1, best = 194)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 26
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 7 de 0 bg 0 bres 7 lres 11
+pb -7 de 1 bg 0 bres 0 lres 22
+pb 8 de 0 bg 0 bres 8 lres 9
+pb -8 de 1 bg 0 bres 0 lres 14
+29 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2838..840) + 1058), step = 1, best = 231)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 24
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 1 de 0 bg 0 bres 1 lres 18
+pb 12 de 0 bg 0 bres 12 lres 6
+pb -4 de 1 bg 0 bres 0 lres 19
+pb -9 de 1 bg 0 bres 0 lres 16
+30 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3210..920) + 1116), step = 1, best = 150)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 9 de 0 bg 0 bres 9 lres 17
+pb -9 de 1 bg 0 bres 0 lres 18
+pb 3 de 0 bg 0 bres 3 lres 17
+pb -3 de 1 bg 0 bres 0 lres 21
+31 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3016..900) + 962), step = 1, best = 54)
+time 360.22
+pb 3 de 0 bg 0 bres 3 lres 21
+pb 1 de 0 bg 0 bres 1 lres 16
+pb -4 de 1 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 8 de 0 bg 0 bres 8 lres 11
+pb -8 de 1 bg 0 bres 0 lres 19
+32 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3347..1000) + 1394), step = 1, best = 425)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 11 de 0 bg 0 bres 11 lres 9
+pb -11 de 1 bg 0 bres 0 lres 17
+pb 15 de 0 bg 0 bres 15 lres 3
+pb -7 de 1 bg 0 bres 0 lres 21
+pb -8 de 1 bg 0 bres 0 lres 20
+33 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2953..860) + 1068), step = 1, best = 189)
+time 360.22
+pb 2 de 0 bg 0 bres 2 lres 14
+pb -2 de 1 bg 0 bres 0 lres 24
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 1 de 0 bg 0 bres 1 lres 21
+pb 7 de 0 bg 0 bres 7 lres 10
+pb -8 de 1 bg 0 bres 0 lres 23
+34 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2672..840) + 986), step = 1, best = 271)
+time 360.24
+pb 1 de 0 bg 0 bres 1 lres 17
+pb -1 de 1 bg 0 bres 0 lres 14
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 8 de 0 bg 0 bres 8 lres 7
+pb -8 de 1 bg 0 bres 0 lres 17
+35 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3093..920) + 1278), step = 1, best = 394)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 24
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 6 de 0 bg 0 bres 6 lres 15
+pb -6 de 1 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 14
+36 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3349..960) + 1308), step = 1, best = 216)
+time 360.22
+pb 3 de 0 bg 0 bres 3 lres 18
+pb -3 de 1 bg 0 bres 0 lres 24
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 15 de 0 bg 0 bres 15 lres 8
+pb 1 de 0 bg 0 bres 1 lres 23
+pb -16 de 1 bg 0 bres 0 lres 16
+37 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2920..880) + 1064), step = 1, best = 216)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 3 de 0 bg 0 bres 3 lres 14
+pb 8 de 0 bg 0 bres 8 lres 11
+pb -11 de 1 bg 0 bres 0 lres 19
+38 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3114..920) + 1279), step = 1, best = 320)
+time 360.22
+pb 1 de 0 bg 0 bres 1 lres 17
+pb -1 de 1 bg 0 bres 0 lres 20
+pb 20 de 0 bg 3 bres 17 lres 0
+pb 5 de 0 bg 0 bres 5 lres 15
+pb -9 de 1 bg 0 bres 0 lres 24
+pb -16 de 1 bg 0 bres 0 lres 16
+39 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3052..900) + 1124), step = 1, best = 224)
+time 360.23
+pb 2 de 0 bg 0 bres 2 lres 16
+pb 10 de 0 bg 0 bres 10 lres 4
+pb -12 de 1 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 4 de 0 bg 0 bres 4 lres 15
+pb -4 de 1 bg 0 bres 0 lres 23
+40 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2938..860) + 1044), step = 1, best = 150)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 4 de 0 bg 0 bres 4 lres 23
+pb 1 de 0 bg 0 bres 1 lres 22
+pb 3 de 0 bg 0 bres 3 lres 11
+pb -8 de 1 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 21
+41 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2804..840) + 1025), step = 1, best = 194)
+time 360.23
+pb 2 de 0 bg 0 bres 2 lres 18
+pb -2 de 1 bg 0 bres 0 lres 19
+pb 5 de 0 bg 0 bres 5 lres 9
+pb -5 de 1 bg 0 bres 0 lres 26
+pb 0 de 0 bg 0 bres 0 lres 24
+pb 0 de 0 bg 0 bres 0 lres 11
+42 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3081..900) + 1135), step = 1, best = 226)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 24
+pb 10 de 0 bg 0 bres 10 lres 7
+pb -7 de 1 bg 0 bres 0 lres 15
+pb -3 de 1 bg 0 bres 0 lres 23
+43 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2933..880) + 1057), step = 1, best = 174)
+time 360.22
+pb 4 de 0 bg 0 bres 4 lres 11
+pb -4 de 1 bg 0 bres 0 lres 21
+pb 10 de 0 bg 0 bres 10 lres 12
+pb 0 de 0 bg 0 bres 0 lres 17
+pb -9 de 1 bg 0 bres 0 lres 18
+pb -1 de 1 bg 0 bres 0 lres 24
+44 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3018..880) + 1117), step = 1, best = 250)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 2 de 0 bg 0 bres 2 lres 20
+pb 4 de 0 bg 0 bres 4 lres 12
+pb -6 de 1 bg 0 bres 0 lres 19
+45 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3162..920) + 1162), step = 1, best = 219)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 6 de 0 bg 0 bres 6 lres 11
+pb -6 de 1 bg 0 bres 0 lres 21
+46 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3077..900) + 1112), step = 1, best = 175)
+time 360.24
+pb 2 de 0 bg 0 bres 2 lres 19
+pb 10 de 0 bg 0 bres 10 lres 15
+pb -12 de 1 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 7 de 0 bg 0 bres 7 lres 12
+pb -7 de 1 bg 0 bres 0 lres 20
+47 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2967..900) + 1144), step = 1, best = 273)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 14 de 0 bg 0 bres 14 lres 4
+pb -14 de 1 bg 0 bres 0 lres 18
+pb 3 de 0 bg 0 bres 3 lres 21
+pb 9 de 0 bg 0 bres 9 lres 6
+pb -12 de 1 bg 0 bres 0 lres 19
+48 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2873..900) + 1175), step = 1, best = 322)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 20 de 0 bg 1 bres 19 lres 0
+pb 5 de 0 bg 0 bres 5 lres 11
+pb -11 de 1 bg 0 bres 0 lres 18
+pb -14 de 1 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 18
+49 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2953..900) + 1090), step = 1, best = 212)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 20 de 0 bg 4 bres 16 lres 0
+pb -8 de 1 bg 0 bres 0 lres 23
+pb 5 de 0 bg 0 bres 5 lres 17
+pb -3 de 1 bg 0 bres 0 lres 18
+pb -14 de 1 bg 0 bres 0 lres 14
+50 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3009..900) + 1079), step = 1, best = 236)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 10 de 0 bg 0 bres 10 lres 8
+pb -10 de 1 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 1 de 0 bg 0 bres 1 lres 16
+pb -1 de 1 bg 0 bres 0 lres 22
+51 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2547..760) + 790), step = 1, best = 30)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 11 de 0 bg 0 bres 11 lres 10
+pb -11 de 1 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 1 de 0 bg 0 bres 1 lres 17
+pb -1 de 1 bg 0 bres 0 lres 23
+52 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2723..800) + 893), step = 1, best = 57)
+time 360.24
+pb 0 de 0 bg 0 bres 0 lres 25
+pb 13 de 0 bg 0 bres 13 lres 6
+pb 0 de 0 bg 0 bres 0 lres 22
+pb -5 de 1 bg 0 bres 0 lres 21
+pb -2 de 1 bg 0 bres 0 lres 15
+pb -6 de 1 bg 0 bres 0 lres 18
+53 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2835..820) + 958), step = 1, best = 126)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 2 de 0 bg 0 bres 2 lres 20
+pb -2 de 1 bg 0 bres 0 lres 20
+54 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2520..800) + 775), step = 1, best = 102)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 9 de 0 bg 0 bres 9 lres 11
+pb -9 de 1 bg 0 bres 0 lres 15
+pb 4 de 0 bg 0 bres 4 lres 9
+pb -4 de 1 bg 0 bres 0 lres 17
+55 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2993..880) + 1037), step = 1, best = 109)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 14 de 0 bg 0 bres 14 lres 4
+pb 4 de 0 bg 0 bres 4 lres 21
+pb -12 de 1 bg 0 bres 0 lres 16
+pb -3 de 1 bg 0 bres 0 lres 20
+pb -3 de 1 bg 0 bres 0 lres 24
+56 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3230..960) + 1252), step = 1, best = 330)
+time 360.23
+pb 1 de 0 bg 0 bres 1 lres 17
+pb 9 de 0 bg 0 bres 9 lres 8
+pb -10 de 1 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 18
+57 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3358..960) + 1341), step = 1, best = 321)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 19 de 0 bg 0 bres 19 lres 1
+pb -12 de 1 bg 0 bres 0 lres 20
+pb -7 de 1 bg 0 bres 0 lres 21
+pb 11 de 0 bg 0 bres 11 lres 9
+pb -11 de 1 bg 0 bres 0 lres 19
+58 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3090..940) + 1237), step = 1, best = 306)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 19 de 0 bg 8 bres 11 lres 0
+pb -10 de 1 bg 0 bres 0 lres 17
+pb 3 de 0 bg 0 bres 3 lres 22
+pb -12 de 1 bg 0 bres 0 lres 18
+59 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3123..900) + 1163), step = 1, best = 236)
+time 360.23
+pb 2 de 0 bg 0 bres 2 lres 18
+pb -2 de 1 bg 0 bres 0 lres 21
+pb 17 de 0 bg 0 bres 17 lres 0
+pb -7 de 1 bg 0 bres 0 lres 20
+pb -8 de 1 bg 0 bres 0 lres 20
+pb -2 de 1 bg 0 bres 0 lres 20
+60 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2696..800) + 898), step = 1, best = 143)
+time 360.23
+pb 3 de 0 bg 0 bres 3 lres 18
+pb -3 de 1 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 0 de 0 bg 0 bres 0 lres 13
+pb 0 de 0 bg 0 bres 0 lres 16
+61 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2906..880) + 1057), step = 1, best = 212)
+time 360.23
+pb 1 de 0 bg 0 bres 1 lres 20
+pb 20 de 0 bg 7 bres 13 lres 0
+pb -8 de 1 bg 0 bres 0 lres 19
+pb 4 de 0 bg 0 bres 4 lres 13
+pb -7 de 1 bg 0 bres 0 lres 20
+pb -10 de 1 bg 0 bres 0 lres 18
+62 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2811..900) + 1097), step = 1, best = 357)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 14
+pb 1 de 0 bg 0 bres 1 lres 18
+pb -1 de 1 bg 0 bres 0 lres 15
+pb 6 de 0 bg 0 bres 6 lres 10
+pb -6 de 1 bg 0 bres 0 lres 17
+63 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2886..840) + 880), step = 1, best = 0)
+time 360.23
+pb 4 de 0 bg 0 bres 4 lres 21
+pb -3 de 1 bg 0 bres 0 lres 19
+pb 3 de 0 bg 0 bres 3 lres 18
+pb 3 de 0 bg 0 bres 3 lres 16
+pb -3 de 1 bg 0 bres 0 lres 19
+pb -4 de 1 bg 0 bres 0 lres 21
+64 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2658..820) + 881), step = 1, best = 148)
+time 360.23
+pb 4 de 0 bg 0 bres 4 lres 15
+pb -4 de 1 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 13
+65 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2915..860) + 1029), step = 1, best = 192)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 4 de 0 bg 0 bres 4 lres 13
+pb 1 de 0 bg 0 bres 1 lres 19
+pb -5 de 1 bg 0 bres 0 lres 23
+66 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2984..900) + 1129), step = 1, best = 295)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 14
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 10 de 0 bg 0 bres 10 lres 11
+pb -10 de 1 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 21
+67 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3063..940) + 1292), step = 1, best = 444)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 13 de 0 bg 0 bres 13 lres 5
+pb -13 de 1 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 0 de 0 bg 0 bres 0 lres 18
+68 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2920..840) + 934), step = 1, best = 48)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 6 de 0 bg 0 bres 6 lres 16
+pb -6 de 1 bg 0 bres 0 lres 21
+pb 7 de 0 bg 0 bres 7 lres 11
+pb -2 de 1 bg 0 bres 0 lres 20
+pb -5 de 1 bg 0 bres 0 lres 20
+69 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3205..920) + 1175), step = 1, best = 203)
+time 360.24
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 18 de 0 bg 0 bres 18 lres 3
+pb -9 de 1 bg 0 bres 0 lres 19
+pb -4 de 1 bg 0 bres 0 lres 19
+pb -5 de 1 bg 0 bres 0 lres 19
+70 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3199..920) + 1240), step = 1, best = 288)
+time 360.23
+pb 1 de 0 bg 0 bres 1 lres 21
+pb -1 de 1 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 20 de 0 bg 0 bres 20 lres 3
+pb -10 de 1 bg 0 bres 0 lres 18
+pb -10 de 1 bg 0 bres 0 lres 20
+71 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3085..920) + 1210), step = 1, best = 329)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 11 de 0 bg 0 bres 11 lres 9
+pb -11 de 1 bg 0 bres 0 lres 17
+pb 6 de 0 bg 0 bres 6 lres 14
+pb -6 de 1 bg 0 bres 0 lres 19
+72 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2938..880) + 1143), step = 1, best = 334)
+time 360.24
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 14
+73 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2732..820) + 882), step = 1, best = 106)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 6 de 0 bg 0 bres 6 lres 12
+pb -6 de 1 bg 0 bres 0 lres 19
+pb 1 de 0 bg 0 bres 1 lres 19
+pb 3 de 0 bg 0 bres 3 lres 14
+pb -4 de 1 bg 0 bres 0 lres 18
+74 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3015..900) + 1124), step = 1, best = 242)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 17 de 0 bg 0 bres 17 lres 4
+pb -10 de 1 bg 0 bres 0 lres 16
+pb -3 de 1 bg 0 bres 0 lres 23
+pb -4 de 1 bg 0 bres 0 lres 17
+75 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2994..860) + 941), step = 1, best = 7)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 2 de 0 bg 0 bres 2 lres 21
+pb -2 de 1 bg 0 bres 0 lres 24
+pb 7 de 0 bg 0 bres 7 lres 11
+pb -7 de 1 bg 0 bres 0 lres 19
+76 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2698..800) + 882), step = 1, best = 113)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 7 de 0 bg 0 bres 7 lres 10
+pb -3 de 1 bg 0 bres 0 lres 18
+pb -4 de 1 bg 0 bres 0 lres 19
+pb 7 de 0 bg 0 bres 7 lres 12
+pb -7 de 1 bg 0 bres 0 lres 20
+77 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3157..920) + 1178), step = 1, best = 212)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 20 de 0 bg 0 bres 20 lres 0
+pb -3 de 1 bg 0 bres 0 lres 22
+pb -7 de 1 bg 0 bres 0 lres 20
+pb -2 de 1 bg 0 bres 0 lres 15
+pb -8 de 1 bg 0 bres 0 lres 20
+78 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2508..760) + 794), step = 1, best = 102)
+time 360.23
+pb 3 de 0 bg 0 bres 3 lres 13
+pb -3 de 1 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 23
+79 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3238..940) + 1298), step = 1, best = 314)
+time 360.23
+pb 4 de 0 bg 0 bres 4 lres 18
+pb -4 de 1 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 24
+pb 5 de 0 bg 0 bres 5 lres 17
+pb -5 de 1 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 11
+80 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2932..860) + 1016), step = 1, best = 152)
+time 360.23
+pb 3 de 0 bg 0 bres 3 lres 16
+pb -3 de 1 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 8 de 0 bg 0 bres 8 lres 12
+pb -2 de 1 bg 0 bres 0 lres 23
+pb -6 de 1 bg 0 bres 0 lres 18
+81 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3360..960) + 1287), step = 1, best = 300)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 12 de 0 bg 0 bres 12 lres 7
+pb -4 de 1 bg 0 bres 0 lres 21
+pb -8 de 1 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 22
+82 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2514..760) + 731), step = 1, best = 35)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 2 de 0 bg 0 bres 2 lres 15
+pb -2 de 1 bg 0 bres 0 lres 19
+pb 1 de 0 bg 0 bres 1 lres 21
+pb -1 de 1 bg 0 bres 0 lres 16
+83 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2659..800) + 886), step = 1, best = 96)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 16 de 0 bg 0 bres 16 lres 4
+pb -6 de 1 bg 0 bres 0 lres 20
+pb -1 de 1 bg 0 bres 0 lres 18
+pb -9 de 1 bg 0 bres 0 lres 19
+84 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3087..880) + 1106), step = 1, best = 188)
+time 360.23
+pb 2 de 0 bg 0 bres 2 lres 20
+pb -2 de 1 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 23
+85 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2839..840) + 960), step = 1, best = 82)
+time 360.22
+pb 3 de 0 bg 0 bres 3 lres 15
+pb 15 de 0 bg 0 bres 15 lres 12
+pb -2 de 1 bg 0 bres 0 lres 18
+pb -5 de 1 bg 0 bres 0 lres 19
+pb -11 de 1 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 21
+86 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3248..940) + 1225), step = 1, best = 250)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 20 de 0 bg 3 bres 17 lres 0
+pb -8 de 1 bg 0 bres 0 lres 17
+pb -12 de 1 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 0 de 0 bg 0 bres 0 lres 21
+87 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2741..840) + 926), step = 1, best = 130)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 20 de 0 bg 0 bres 20 lres 4
+pb 2 de 0 bg 0 bres 2 lres 17
+pb -11 de 1 bg 0 bres 0 lres 13
+pb -11 de 1 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 14
+88 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2972..900) + 1126), step = 1, best = 295)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 13
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 2 de 0 bg 0 bres 2 lres 15
+pb -2 de 1 bg 0 bres 0 lres 20
+89 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2972..860) + 1036), step = 1, best = 100)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 3 de 0 bg 0 bres 3 lres 19
+pb 9 de 0 bg 0 bres 9 lres 14
+pb -12 de 1 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 18
+90 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2878..900) + 1104), step = 1, best = 290)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 16 de 0 bg 0 bres 16 lres 6
+pb -3 de 1 bg 0 bres 0 lres 19
+pb -13 de 1 bg 0 bres 0 lres 16
+91 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3052..940) + 1211), step = 1, best = 354)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 20 de 0 bg 1 bres 19 lres 0
+pb -10 de 1 bg 0 bres 0 lres 21
+pb -6 de 1 bg 0 bres 0 lres 15
+pb -4 de 1 bg 0 bres 0 lres 14
+pb 0 de 0 bg 0 bres 0 lres 23
+92 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2820..840) + 920), step = 1, best = 123)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 11 de 0 bg 0 bres 11 lres 8
+pb -6 de 1 bg 0 bres 0 lres 20
+pb -5 de 1 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 17
+93 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3082..920) + 1237), step = 1, best = 346)
+time 360.22
+pb 1 de 0 bg 0 bres 1 lres 24
+pb -1 de 1 bg 0 bres 0 lres 21
+pb 20 de 0 bg 0 bres 20 lres 1
+pb -16 de 1 bg 0 bres 0 lres 12
+pb -4 de 1 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 17
+94 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2707..820) + 889), step = 1, best = 59)
+time 360.22
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 5 de 0 bg 0 bres 5 lres 16
+pb 4 de 0 bg 0 bres 4 lres 15
+pb 9 de 0 bg 0 bres 9 lres 10
+pb -6 de 1 bg 0 bres 0 lres 18
+pb -12 de 1 bg 0 bres 0 lres 21
+95 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3048..940) + 1239), step = 1, best = 356)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 14
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 18 de 0 bg 1 bres 17 lres 0
+pb -18 de 1 bg 0 bres 0 lres 16
+pb 7 de 0 bg 0 bres 7 lres 16
+pb -7 de 1 bg 0 bres 0 lres 18
+96 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2680..780) + 903), step = 1, best = 98)
+time 360.22
+pb 3 de 0 bg 0 bres 3 lres 17
+pb 6 de 0 bg 0 bres 6 lres 14
+pb -9 de 1 bg 0 bres 0 lres 20
+pb 5 de 0 bg 0 bres 5 lres 9
+pb -1 de 1 bg 0 bres 0 lres 26
+pb -4 de 1 bg 0 bres 0 lres 19
+97 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-2635..860) + 917), step = 1, best = 236)
+time 360.23
+pb 3 de 0 bg 0 bres 3 lres 18
+pb -3 de 1 bg 0 bres 0 lres 13
+pb 17 de 0 bg 0 bres 17 lres 2
+pb -17 de 1 bg 0 bres 0 lres 10
+pb 0 de 0 bg 0 bres 0 lres 13
+pb 0 de 0 bg 0 bres 0 lres 17
+98 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3050..880) + 1103), step = 1, best = 192)
+time 360.23
+pb 2 de 0 bg 0 bres 2 lres 13
+pb -2 de 1 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 6 de 0 bg 0 bres 6 lres 18
+pb -6 de 1 bg 0 bres 0 lres 24
+pb 0 de 0 bg 0 bres 0 lres 18
+99 
+obj MinimizeVar((Sum([, , , , , , , , , , , , , , , , , ])(-3373..980) + 1365), step = 1, best = 393)
+time 360.23
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 8 de 0 bg 0 bres 8 lres 13
+pb -8 de 1 bg 0 bres 0 lres 18

@@ -1,0 +1,900 @@
+0 
+obj 267
+time 5462.08
+pb 20 de 0 bg 0 bres 20 lres 1
+pb -16 de 1 bg 0 bres 0 lres 16
+pb 1 de 0 bg 0 bres 1 lres 23
+pb -5 de 1 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 1 de 0 bg 0 bres 1 lres 20
+1 
+obj 136
+time 1976.77
+pb 9 de 0 bg 0 bres 9 lres 7
+pb -9 de 1 bg 0 bres 0 lres 21
+pb 12 de 0 bg 0 bres 12 lres 11
+pb -3 de 1 bg 0 bres 0 lres 18
+pb -9 de 1 bg 0 bres 0 lres 21
+pb 10 de 0 bg 0 bres 10 lres 12
+2 
+obj 171
+time 3265.51
+pb 0 de 0 bg 0 bres 0 lres 24
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 1 de 0 bg 0 bres 1 lres 23
+pb 7 de 1 bg 0 bres 7 lres 15
+pb 12 de 1 bg 0 bres 12 lres 7
+3 
+obj 186
+time 2766.53
+pb 7 de 0 bg 0 bres 7 lres 12
+pb 20 de 0 bg 3 bres 17 lres 0
+pb -7 de 1 bg 0 bres 0 lres 21
+pb -14 de 1 bg 0 bres 0 lres 19
+pb -6 de 1 bg 0 bres 0 lres 24
+pb 0 de 0 bg 0 bres 0 lres 12
+4 
+obj 205
+time 3004.92
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 16 de 0 bg 0 bres 16 lres 5
+pb -3 de 1 bg 0 bres 0 lres 23
+pb -13 de 1 bg 0 bres 0 lres 14
+pb 0 de 0 bg 0 bres 0 lres 21
+5 
+obj 328
+time 5179.94
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 6 de 0 bg 0 bres 6 lres 20
+pb 20 de 0 bg 1 bres 19 lres 0
+pb -19 de 1 bg 0 bres 0 lres 14
+pb -7 de 1 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 21
+6 
+obj 228
+time 4418.6
+pb 16 de 0 bg 0 bres 16 lres 9
+pb 20 de 0 bg 2 bres 18 lres 0
+pb -13 de 1 bg 0 bres 0 lres 19
+pb -7 de 1 bg 0 bres 0 lres 16
+pb -9 de 1 bg 0 bres 0 lres 18
+pb -7 de 1 bg 0 bres 0 lres 21
+7 
+obj 218
+time 7419.95
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 14
+pb 2 de 0 bg 0 bres 2 lres 16
+pb 20 de 0 bg 0 bres 20 lres 0
+pb -9 de 1 bg 0 bres 0 lres 19
+pb -13 de 1 bg 0 bres 0 lres 13
+8 
+obj 301
+time 4812.53
+pb 0 de 0 bg 0 bres 0 lres 13
+pb 5 de 0 bg 0 bres 5 lres 15
+pb 20 de 0 bg 2 bres 18 lres 0
+pb -14 de 1 bg 0 bres 0 lres 14
+pb -5 de 1 bg 0 bres 0 lres 22
+pb -6 de 1 bg 0 bres 0 lres 16
+9 
+obj 180
+time 3630.98
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 20 de 0 bg 0 bres 20 lres 1
+pb -9 de 1 bg 0 bres 0 lres 12
+pb 5 de 0 bg 0 bres 5 lres 15
+pb -3 de 1 bg 0 bres 0 lres 20
+pb -13 de 1 bg 0 bres 0 lres 19
+10 
+obj 224
+time 5918.96
+pb 1 de 0 bg 0 bres 1 lres 17
+pb 20 de 0 bg 0 bres 20 lres 1
+pb -7 de 1 bg 0 bres 0 lres 22
+pb -3 de 1 bg 0 bres 0 lres 23
+pb -11 de 1 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 18
+11 
+obj 185
+time 3245.53
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 14 de 0 bg 0 bres 14 lres 2
+pb 1 de 0 bg 0 bres 1 lres 19
+pb -2 de 1 bg 0 bres 0 lres 18
+pb -9 de 1 bg 0 bres 0 lres 16
+pb -4 de 1 bg 0 bres 0 lres 19
+12 
+obj 169
+time 3067.45
+pb 16 de 0 bg 3 bres 13 lres 0
+pb -11 de 1 bg 0 bres 0 lres 20
+pb -5 de 1 bg 0 bres 0 lres 17
+pb 5 de 0 bg 0 bres 5 lres 18
+pb -4 de 1 bg 0 bres 0 lres 21
+pb -1 de 1 bg 0 bres 0 lres 21
+13 
+obj 154
+time 4098.75
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 2 de 0 bg 0 bres 2 lres 21
+pb 9 de 0 bg 0 bres 9 lres 12
+pb -11 de 1 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 22
+14 
+obj 183
+time 4830.21
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 3 de 0 bg 0 bres 3 lres 13
+pb -3 de 1 bg 0 bres 0 lres 24
+pb 15 de 0 bg 0 bres 15 lres 3
+pb -15 de 1 bg 0 bres 0 lres 15
+15 
+obj 217
+time 4180.57
+pb 8 de 0 bg 0 bres 8 lres 10
+pb -8 de 1 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 9 de 0 bg 0 bres 9 lres 13
+pb -8 de 1 bg 0 bres 0 lres 20
+16 
+obj 473
+time 5618.28
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 14 de 0 bg 0 bres 14 lres 4
+pb -14 de 1 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 6 de 0 bg 0 bres 6 lres 9
+pb -6 de 1 bg 0 bres 0 lres 15
+17 
+obj 204
+time 5540.77
+pb 20 de 0 bg 4 bres 16 lres 0
+pb 0 de 0 bg 0 bres 0 lres 19
+pb -11 de 1 bg 0 bres 0 lres 20
+pb -9 de 1 bg 0 bres 0 lres 18
+pb 1 de 0 bg 0 bres 1 lres 19
+pb -1 de 1 bg 0 bres 0 lres 19
+18 
+obj 265
+time 11920.75
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 20 de 0 bg 0 bres 20 lres 1
+pb -4 de 1 bg 0 bres 0 lres 19
+pb 10 de 0 bg 0 bres 10 lres 12
+pb -9 de 1 bg 0 bres 0 lres 21
+pb -17 de 1 bg 0 bres 0 lres 9
+19 
+obj 277
+time 9994.16
+pb 20 de 0 bg 1 bres 19 lres 0
+pb -5 de 1 bg 0 bres 0 lres 20
+pb -8 de 1 bg 0 bres 0 lres 19
+pb -6 de 1 bg 0 bres 0 lres 15
+pb 12 de 0 bg 0 bres 12 lres 2
+pb -13 de 1 bg 0 bres 0 lres 15
+20 
+obj 180
+time 2145.68
+pb 20 de 0 bg 0 bres 20 lres 1
+pb -17 de 1 bg 0 bres 0 lres 15
+pb 20 de 0 bg 4 bres 16 lres 0
+pb -6 de 1 bg 0 bres 0 lres 25
+pb -3 de 1 bg 0 bres 0 lres 17
+pb -14 de 1 bg 0 bres 0 lres 18
+21 
+obj 212
+time 3404.46
+pb 10 de 0 bg 0 bres 10 lres 6
+pb -10 de 1 bg 0 bres 0 lres 20
+pb 18 de 0 bg 0 bres 18 lres 6
+pb -8 de 1 bg 0 bres 0 lres 15
+pb -8 de 1 bg 0 bres 0 lres 17
+pb -2 de 1 bg 0 bres 0 lres 25
+22 
+obj 152
+time 2968.31
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 15 de 0 bg 0 bres 15 lres 7
+pb 3 de 0 bg 0 bres 3 lres 21
+pb -6 de 1 bg 0 bres 0 lres 16
+pb -12 de 1 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 18
+23 
+obj 414
+time 11004.29
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 16 de 0 bg 0 bres 16 lres 7
+pb -16 de 1 bg 0 bres 0 lres 13
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 18
+24 
+obj 369
+time 12150.72
+pb 5 de 0 bg 0 bres 5 lres 20
+pb 20 de 0 bg 0 bres 20 lres 0
+pb -14 de 1 bg 0 bres 0 lres 18
+pb -11 de 1 bg 0 bres 0 lres 20
+pb 13 de 0 bg 0 bres 13 lres 8
+pb -13 de 1 bg 0 bres 0 lres 18
+25 
+obj 362
+time 8820.36
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 14 de 0 bg 0 bres 14 lres 10
+pb -14 de 1 bg 0 bres 0 lres 16
+pb 13 de 0 bg 0 bres 13 lres 5
+pb -13 de 1 bg 0 bres 0 lres 17
+pb 1 de 0 bg 0 bres 1 lres 20
+26 
+obj 204
+time 3593.55
+pb 0 de 0 bg 0 bres 0 lres 14
+pb 13 de 0 bg 0 bres 13 lres 0
+pb 0 de 0 bg 0 bres 0 lres 24
+pb -5 de 1 bg 0 bres 0 lres 23
+pb 4 de 0 bg 0 bres 4 lres 23
+pb -12 de 1 bg 0 bres 0 lres 16
+27 
+obj 238
+time 3997.4
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 20 de 0 bg 0 bres 20 lres 4
+pb -15 de 1 bg 0 bres 0 lres 16
+pb -5 de 1 bg 0 bres 0 lres 17
+pb 12 de 0 bg 0 bres 12 lres 5
+pb -12 de 1 bg 0 bres 0 lres 20
+28 
+obj 231
+time 5267.12
+pb 0 de 0 bg 0 bres 0 lres 24
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 7 de 0 bg 0 bres 7 lres 11
+pb -7 de 1 bg 0 bres 0 lres 21
+pb 8 de 0 bg 0 bres 8 lres 8
+pb -8 de 1 bg 0 bres 0 lres 14
+29 
+obj 266
+time 4318.82
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 13 de 0 bg 0 bres 13 lres 5
+pb -6 de 1 bg 0 bres 0 lres 17
+pb -7 de 1 bg 0 bres 0 lres 16
+30 
+obj 158
+time 3751.77
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 9 de 0 bg 0 bres 9 lres 17
+pb -9 de 1 bg 0 bres 0 lres 17
+pb 3 de 0 bg 0 bres 3 lres 17
+pb -3 de 1 bg 0 bres 0 lres 21
+31 
+obj 78
+time 2542.73
+pb 2 de 0 bg 0 bres 2 lres 21
+pb 2 de 0 bg 0 bres 2 lres 15
+pb -4 de 1 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 8 de 0 bg 0 bres 8 lres 11
+pb -8 de 1 bg 0 bres 0 lres 18
+32 
+obj 468
+time 7803.33
+pb 0 de 0 bg 0 bres 0 lres 14
+pb 11 de 0 bg 0 bres 11 lres 8
+pb -11 de 1 bg 0 bres 0 lres 16
+pb 15 de 0 bg 0 bres 15 lres 3
+pb -8 de 1 bg 0 bres 0 lres 20
+pb -7 de 1 bg 0 bres 0 lres 19
+33 
+obj 146
+time 3645.52
+pb 20 de 0 bg 1 bres 19 lres 0
+pb -7 de 1 bg 0 bres 0 lres 24
+pb -10 de 1 bg 0 bres 0 lres 16
+pb 1 de 0 bg 0 bres 1 lres 21
+pb 4 de 0 bg 0 bres 4 lres 12
+pb -8 de 1 bg 0 bres 0 lres 22
+34 
+obj 295
+time 9391.59
+pb 20 de 0 bg 3 bres 17 lres 0
+pb -10 de 1 bg 0 bres 0 lres 13
+pb -8 de 1 bg 0 bres 0 lres 16
+pb -2 de 1 bg 0 bres 0 lres 19
+pb 8 de 0 bg 0 bres 8 lres 7
+pb -8 de 1 bg 0 bres 0 lres 15
+35 
+obj 311
+time 10346.29
+pb 20 de 0 bg 0 bres 20 lres 3
+pb -11 de 1 bg 0 bres 0 lres 23
+pb -9 de 1 bg 0 bres 0 lres 17
+pb 6 de 0 bg 0 bres 6 lres 15
+pb -4 de 1 bg 0 bres 0 lres 20
+pb -2 de 1 bg 0 bres 0 lres 14
+36 
+obj 232
+time 4014.0
+pb 7 de 0 bg 0 bres 7 lres 14
+pb -7 de 1 bg 0 bres 0 lres 23
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 15 de 0 bg 0 bres 15 lres 9
+pb 1 de 0 bg 0 bres 1 lres 22
+pb -16 de 1 bg 0 bres 0 lres 15
+37 
+obj 269
+time 3288.89
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 2 de 0 bg 0 bres 2 lres 14
+pb 9 de 0 bg 0 bres 9 lres 9
+pb -11 de 1 bg 0 bres 0 lres 17
+38 
+obj 355
+time 7474.3
+pb 11 de 0 bg 0 bres 11 lres 5
+pb -11 de 1 bg 0 bres 0 lres 18
+pb 20 de 0 bg 4 bres 16 lres 0
+pb 5 de 0 bg 0 bres 5 lres 15
+pb -10 de 1 bg 0 bres 0 lres 23
+pb -15 de 1 bg 0 bres 0 lres 16
+39 
+obj 212
+time 3722.58
+pb 7 de 0 bg 0 bres 7 lres 16
+pb 5 de 0 bg 0 bres 5 lres 10
+pb -12 de 1 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 4 de 0 bg 0 bres 4 lres 14
+pb -4 de 1 bg 0 bres 0 lres 21
+40 
+obj 169
+time 2765.22
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 3 de 0 bg 0 bres 3 lres 23
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 5 de 0 bg 0 bres 5 lres 9
+pb -8 de 1 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 21
+41 
+obj 193
+time 4736.2
+pb 20 de 0 bg 1 bres 19 lres 0
+pb -5 de 1 bg 0 bres 0 lres 19
+pb -10 de 1 bg 0 bres 0 lres 14
+pb -5 de 1 bg 0 bres 0 lres 24
+pb 0 de 0 bg 0 bres 0 lres 25
+pb 0 de 0 bg 0 bres 0 lres 11
+42 
+obj 264
+time 4352.79
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 24
+pb 10 de 0 bg 0 bres 10 lres 6
+pb -8 de 1 bg 0 bres 0 lres 14
+pb -2 de 1 bg 0 bres 0 lres 22
+43 
+obj 201
+time 2509.74
+pb 8 de 0 bg 0 bres 8 lres 7
+pb -8 de 1 bg 0 bres 0 lres 20
+pb 10 de 0 bg 0 bres 10 lres 12
+pb -1 de 1 bg 0 bres 0 lres 16
+pb -9 de 1 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 23
+44 
+obj 256
+time 4994.58
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 1 de 0 bg 0 bres 1 lres 20
+pb 5 de 0 bg 0 bres 5 lres 11
+pb -6 de 1 bg 0 bres 0 lres 19
+45 
+obj 243
+time 3030.04
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 9 de 0 bg 0 bres 9 lres 11
+pb -6 de 1 bg 0 bres 0 lres 18
+46 
+obj 194
+time 4781.41
+pb 20 de 0 bg 0 bres 20 lres 1
+pb 2 de 0 bg 0 bres 2 lres 23
+pb -13 de 1 bg 0 bres 0 lres 18
+pb -7 de 1 bg 0 bres 0 lres 14
+pb 5 de 0 bg 0 bres 5 lres 13
+pb -7 de 1 bg 0 bres 0 lres 19
+47 
+obj 302
+time 9965.01
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 14 de 0 bg 0 bres 14 lres 4
+pb -14 de 1 bg 0 bres 0 lres 17
+pb 2 de 0 bg 0 bres 2 lres 21
+pb 10 de 0 bg 0 bres 10 lres 4
+pb -12 de 1 bg 0 bres 0 lres 19
+48 
+obj 333
+time 3345.64
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 20 de 0 bg 1 bres 19 lres 0
+pb 5 de 0 bg 0 bres 5 lres 11
+pb -11 de 1 bg 0 bres 0 lres 18
+pb -14 de 1 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 19
+49 
+obj 233
+time 5080.83
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 20 de 0 bg 5 bres 15 lres 0
+pb -8 de 1 bg 0 bres 0 lres 23
+pb 5 de 0 bg 0 bres 5 lres 17
+pb -4 de 1 bg 0 bres 0 lres 17
+pb -13 de 1 bg 0 bres 0 lres 14
+50 
+obj 253
+time 4106.25
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 10 de 0 bg 0 bres 10 lres 8
+pb -10 de 1 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 4 de 0 bg 0 bres 4 lres 16
+pb -2 de 1 bg 0 bres 0 lres 19
+51 
+obj 43
+time 2417.12
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 11 de 0 bg 0 bres 11 lres 9
+pb -11 de 1 bg 0 bres 0 lres 16
+pb 1 de 0 bg 0 bres 1 lres 19
+pb 3 de 0 bg 0 bres 3 lres 17
+pb -1 de 1 bg 0 bres 0 lres 20
+52 
+obj 88
+time 2430.29
+pb 0 de 0 bg 0 bres 0 lres 24
+pb 13 de 0 bg 0 bres 13 lres 4
+pb -1 de 1 bg 0 bres 0 lres 21
+pb -5 de 1 bg 0 bres 0 lres 21
+pb -1 de 1 bg 0 bres 0 lres 15
+pb -6 de 1 bg 0 bres 0 lres 17
+53 
+obj 153
+time 3711.68
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 1 de 0 bg 0 bres 1 lres 20
+pb -1 de 1 bg 0 bres 0 lres 20
+54 
+obj 129
+time 3678.99
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 9 de 0 bg 0 bres 9 lres 11
+pb -9 de 1 bg 0 bres 0 lres 15
+pb 4 de 0 bg 0 bres 4 lres 8
+pb -4 de 1 bg 0 bres 0 lres 16
+55 
+obj 144
+time 2843.95
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 14 de 0 bg 0 bres 14 lres 2
+pb 4 de 0 bg 0 bres 4 lres 21
+pb -13 de 1 bg 0 bres 0 lres 15
+pb -4 de 1 bg 0 bres 0 lres 19
+pb -1 de 1 bg 0 bres 0 lres 24
+56 
+obj 359
+time 9404.98
+pb 20 de 0 bg 3 bres 17 lres 0
+pb -10 de 1 bg 0 bres 0 lres 16
+pb -10 de 1 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 17
+57 
+obj 361
+time 8909.09
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 19 de 0 bg 0 bres 19 lres 0
+pb -12 de 1 bg 0 bres 0 lres 20
+pb -7 de 1 bg 0 bres 0 lres 19
+pb 11 de 0 bg 0 bres 11 lres 9
+pb -11 de 1 bg 0 bres 0 lres 18
+58 
+obj 321
+time 4009.55
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 19 de 0 bg 9 bres 10 lres 0
+pb -9 de 1 bg 0 bres 0 lres 17
+pb 2 de 0 bg 0 bres 2 lres 22
+pb -12 de 1 bg 0 bres 0 lres 17
+59 
+obj 262
+time 4592.33
+pb 11 de 0 bg 0 bres 11 lres 9
+pb -11 de 1 bg 0 bres 0 lres 20
+pb 17 de 0 bg 1 bres 16 lres 0
+pb -9 de 1 bg 0 bres 0 lres 18
+pb -8 de 1 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 19
+60 
+obj 148
+time 3187.65
+pb 13 de 0 bg 0 bres 13 lres 7
+pb -13 de 1 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 2 de 0 bg 0 bres 2 lres 23
+pb 2 de 1 bg 0 bres 2 lres 11
+pb 0 de 1 bg 0 bres 0 lres 12
+61 
+obj 219
+time 5487.59
+pb 1 de 0 bg 0 bres 1 lres 20
+pb 20 de 0 bg 7 bres 13 lres 0
+pb -8 de 1 bg 0 bres 0 lres 19
+pb 4 de 0 bg 0 bres 4 lres 12
+pb -7 de 1 bg 0 bres 0 lres 20
+pb -10 de 1 bg 0 bres 0 lres 18
+62 
+obj 380
+time 6357.0
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 13
+pb 1 de 0 bg 0 bres 1 lres 18
+pb -1 de 1 bg 0 bres 0 lres 15
+pb 6 de 0 bg 0 bres 6 lres 9
+pb -6 de 1 bg 0 bres 0 lres 17
+63 
+obj 6
+time 2173.69
+pb 4 de 0 bg 0 bres 4 lres 21
+pb -4 de 1 bg 0 bres 0 lres 18
+pb 2 de 0 bg 0 bres 2 lres 18
+pb 5 de 0 bg 0 bres 5 lres 15
+pb -3 de 1 bg 0 bres 0 lres 19
+pb -4 de 1 bg 0 bres 0 lres 21
+64 
+obj 140
+time 2877.55
+pb 12 de 0 bg 0 bres 12 lres 7
+pb -12 de 1 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 13
+65 
+obj 215
+time 3781.87
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 4 de 0 bg 0 bres 4 lres 14
+pb 1 de 0 bg 0 bres 1 lres 18
+pb -5 de 1 bg 0 bres 0 lres 22
+66 
+obj 316
+time 4387.12
+pb 0 de 0 bg 0 bres 0 lres 14
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 10 de 0 bg 0 bres 10 lres 10
+pb -10 de 1 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 0 de 0 bg 0 bres 0 lres 20
+67 
+obj 396
+time 15658.83
+pb 20 de 0 bg 2 bres 18 lres 0
+pb 20 de 0 bg 3 bres 17 lres 0
+pb -17 de 1 bg 0 bres 0 lres 15
+pb -12 de 1 bg 0 bres 0 lres 21
+pb -11 de 1 bg 0 bres 0 lres 14
+pb 0 de 0 bg 0 bres 0 lres 17
+68 
+obj 76
+time 2769.93
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 6 de 0 bg 0 bres 6 lres 15
+pb -6 de 1 bg 0 bres 0 lres 20
+pb 7 de 0 bg 0 bres 7 lres 11
+pb -2 de 1 bg 0 bres 0 lres 19
+pb -5 de 1 bg 0 bres 0 lres 20
+69 
+obj 227
+time 3691.92
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 18 de 0 bg 0 bres 18 lres 3
+pb -9 de 1 bg 0 bres 0 lres 19
+pb -4 de 1 bg 0 bres 0 lres 19
+pb -5 de 1 bg 0 bres 0 lres 19
+70 
+obj 319
+time 10961.03
+pb 16 de 0 bg 0 bres 16 lres 5
+pb -9 de 1 bg 0 bres 0 lres 17
+pb -7 de 1 bg 0 bres 0 lres 19
+pb 20 de 0 bg 0 bres 20 lres 2
+pb -11 de 1 bg 0 bres 0 lres 17
+pb -9 de 1 bg 0 bres 0 lres 20
+71 
+obj 352
+time 7982.35
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 11 de 0 bg 0 bres 11 lres 9
+pb -11 de 1 bg 0 bres 0 lres 16
+pb 6 de 0 bg 0 bres 6 lres 13
+pb -6 de 1 bg 0 bres 0 lres 18
+72 
+obj 372
+time 8029.84
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 14
+73 
+obj 106
+time 2618.12
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 6 de 0 bg 0 bres 6 lres 11
+pb -5 de 1 bg 0 bres 0 lres 20
+pb 1 de 0 bg 0 bres 1 lres 19
+pb 2 de 0 bg 0 bres 2 lres 15
+pb -4 de 1 bg 0 bres 0 lres 18
+74 
+obj 247
+time 4414.6
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 17 de 0 bg 0 bres 17 lres 3
+pb -9 de 1 bg 0 bres 0 lres 16
+pb -4 de 1 bg 0 bres 0 lres 22
+pb -4 de 1 bg 0 bres 0 lres 17
+75 
+obj 7
+time 1990.65
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 3 de 0 bg 0 bres 3 lres 22
+pb 2 de 1 bg 0 bres 2 lres 20
+pb -4 de 1 bg 0 bres 0 lres 21
+pb 7 de 0 bg 0 bres 7 lres 11
+pb -8 de 1 bg 0 bres 0 lres 18
+76 
+obj 153
+time 3573.17
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 7 de 0 bg 0 bres 7 lres 9
+pb -4 de 1 bg 0 bres 0 lres 17
+pb -3 de 1 bg 0 bres 0 lres 17
+pb 7 de 0 bg 0 bres 7 lres 11
+pb -7 de 1 bg 0 bres 0 lres 20
+77 
+obj 245
+time 3798.67
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 20 de 0 bg 0 bres 20 lres 0
+pb -3 de 1 bg 0 bres 0 lres 22
+pb -8 de 1 bg 0 bres 0 lres 19
+pb -1 de 1 bg 0 bres 0 lres 15
+pb -8 de 1 bg 0 bres 0 lres 19
+78 
+obj 116
+time 3006.36
+pb 9 de 0 bg 0 bres 9 lres 6
+pb -4 de 1 bg 0 bres 0 lres 16
+pb -5 de 1 bg 0 bres 0 lres 18
+pb 1 de 0 bg 0 bres 1 lres 15
+pb 0 de 1 bg 0 bres 0 lres 17
+pb -1 de 1 bg 0 bres 0 lres 22
+79 
+obj 329
+time 3009.01
+pb 20 de 0 bg 0 bres 20 lres 2
+pb -15 de 1 bg 0 bres 0 lres 19
+pb -5 de 1 bg 0 bres 0 lres 22
+pb 5 de 0 bg 0 bres 5 lres 16
+pb -5 de 1 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 11
+80 
+obj 166
+time 2998.18
+pb 16 de 0 bg 0 bres 16 lres 1
+pb -8 de 1 bg 0 bres 0 lres 20
+pb -8 de 1 bg 0 bres 0 lres 17
+pb 8 de 0 bg 0 bres 8 lres 11
+pb -2 de 1 bg 0 bres 0 lres 23
+pb -6 de 1 bg 0 bres 0 lres 16
+81 
+obj 325
+time 5317.09
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 12 de 0 bg 0 bres 12 lres 6
+pb -5 de 1 bg 0 bres 0 lres 20
+pb -7 de 1 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 22
+82 
+obj 48
+time 2337.56
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 3 de 0 bg 0 bres 3 lres 15
+pb -3 de 1 bg 0 bres 0 lres 17
+pb 1 de 0 bg 0 bres 1 lres 21
+pb -1 de 1 bg 0 bres 0 lres 16
+83 
+obj 123
+time 2196.01
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 16 de 0 bg 0 bres 16 lres 4
+pb -6 de 1 bg 0 bres 0 lres 20
+pb -1 de 1 bg 0 bres 0 lres 17
+pb -9 de 1 bg 0 bres 0 lres 17
+84 
+obj 165
+time 4702.12
+pb 20 de 0 bg 0 bres 20 lres 1
+pb -8 de 1 bg 0 bres 0 lres 22
+pb -7 de 1 bg 0 bres 0 lres 20
+pb -5 de 1 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 23
+85 
+obj 97
+time 2955.29
+pb 3 de 0 bg 0 bres 3 lres 15
+pb 19 de 0 bg 0 bres 19 lres 6
+pb -2 de 1 bg 0 bres 0 lres 18
+pb -6 de 1 bg 0 bres 0 lres 19
+pb -11 de 1 bg 0 bres 0 lres 18
+pb -3 de 1 bg 0 bres 0 lres 20
+86 
+obj 249
+time 6505.53
+pb 12 de 0 bg 0 bres 12 lres 13
+pb 20 de 0 bg 4 bres 16 lres 0
+pb -11 de 1 bg 0 bres 0 lres 16
+pb -14 de 1 bg 0 bres 0 lres 19
+pb -1 de 1 bg 0 bres 0 lres 23
+pb -6 de 1 bg 0 bres 0 lres 20
+87 
+obj 172
+time 4208.04
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 20 de 0 bg 0 bres 20 lres 2
+pb 2 de 0 bg 0 bres 2 lres 16
+pb -11 de 1 bg 0 bres 0 lres 13
+pb -11 de 1 bg 0 bres 0 lres 14
+pb 6 de 0 bg 0 bres 6 lres 14
+88 
+obj 325
+time 4450.12
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 13
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 2 de 0 bg 0 bres 2 lres 14
+pb -2 de 1 bg 0 bres 0 lres 19
+89 
+obj 129
+time 2434.11
+pb 0 de 0 bg 0 bres 0 lres 21
+pb 0 de 0 bg 0 bres 0 lres 23
+pb 1 de 0 bg 0 bres 1 lres 19
+pb 11 de 0 bg 0 bres 11 lres 12
+pb -12 de 1 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 18
+90 
+obj 310
+time 4774.83
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 0 de 0 bg 0 bres 0 lres 16
+pb 16 de 0 bg 0 bres 16 lres 4
+pb -2 de 1 bg 0 bres 0 lres 19
+pb -13 de 1 bg 0 bres 0 lres 15
+91 
+obj 353
+time 6348.98
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 20 de 0 bg 2 bres 18 lres 0
+pb -10 de 1 bg 0 bres 0 lres 21
+pb -5 de 1 bg 0 bres 0 lres 16
+pb -5 de 1 bg 0 bres 0 lres 14
+pb 0 de 0 bg 0 bres 0 lres 23
+92 
+obj 150
+time 3684.49
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 11 de 0 bg 0 bres 11 lres 6
+pb -5 de 1 bg 0 bres 0 lres 20
+pb -5 de 1 bg 0 bres 0 lres 19
+pb -1 de 1 bg 0 bres 0 lres 16
+93 
+obj 346
+time 10276.39
+pb 10 de 0 bg 0 bres 10 lres 15
+pb -10 de 1 bg 0 bres 0 lres 20
+pb 20 de 0 bg 0 bres 20 lres 1
+pb -16 de 1 bg 0 bres 0 lres 12
+pb -4 de 1 bg 0 bres 0 lres 17
+pb 8 de 0 bg 0 bres 8 lres 17
+94 
+obj 95
+time 1769.78
+pb 0 de 0 bg 0 bres 0 lres 17
+pb 2 de 0 bg 0 bres 2 lres 16
+pb 2 de 0 bg 0 bres 2 lres 15
+pb 14 de 0 bg 0 bres 14 lres 4
+pb -6 de 1 bg 0 bres 0 lres 18
+pb -12 de 1 bg 0 bres 0 lres 21
+95 
+obj 387
+time 6341.84
+pb 0 de 0 bg 0 bres 0 lres 15
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 18 de 0 bg 2 bres 16 lres 0
+pb -18 de 1 bg 0 bres 0 lres 15
+pb 7 de 0 bg 0 bres 7 lres 15
+pb -7 de 1 bg 0 bres 0 lres 17
+96 
+obj 115
+time 3572.12
+pb 16 de 0 bg 0 bres 16 lres 3
+pb 0 de 0 bg 0 bres 0 lres 19
+pb -10 de 1 bg 0 bres 0 lres 19
+pb -1 de 1 bg 0 bres 0 lres 13
+pb -2 de 1 bg 0 bres 0 lres 25
+pb -3 de 1 bg 0 bres 0 lres 19
+97 
+obj 253
+time 3862.26
+pb 15 de 0 bg 0 bres 15 lres 3
+pb -15 de 1 bg 0 bres 0 lres 12
+pb 17 de 0 bg 0 bres 17 lres 2
+pb -17 de 1 bg 0 bres 0 lres 10
+pb 5 de 0 bg 0 bres 5 lres 13
+pb 2 de 1 bg 0 bres 2 lres 12
+98 
+obj 210
+time 4505.52
+pb 6 de 0 bg 0 bres 6 lres 9
+pb -6 de 1 bg 0 bres 0 lres 19
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 6 de 0 bg 0 bres 6 lres 17
+pb -6 de 1 bg 0 bres 0 lres 24
+pb 0 de 0 bg 0 bres 0 lres 18
+99 
+obj 407
+time 6909.53
+pb 0 de 0 bg 0 bres 0 lres 18
+pb 0 de 0 bg 0 bres 0 lres 22
+pb 0 de 0 bg 0 bres 0 lres 20
+pb 0 de 0 bg 0 bres 0 lres 19
+pb 8 de 0 bg 0 bres 8 lres 11
+pb -8 de 1 bg 0 bres 0 lres 18
