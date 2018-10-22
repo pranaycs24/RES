@@ -7,7 +7,7 @@ def main():
 	I=0
 	open('RTT_6/temp1.txt', 'w').close()
 	ase=[11, 17, 19, 21]
-	for I in xrange(1,2):
+	for I in xrange(82,83):
 		pass
 		pres,ares,price,load=[],[],[],[]
 		lres,bres,bg,pb=[],[],[],[]

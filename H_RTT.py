@@ -33,7 +33,7 @@ def getKey(item):
 def RTT_Heu(index, n, bin, pres, ares, load, price):
 	lres,bres,bg,pb=[],[],[],[]
 	#obj=res_data(lres, bres, bg, pb)
-	obj=res_one_to(lres, bres, bg, pb,1)
+	obj=res_one_to(lres, bres, bg, pb,82)
 	#print('0 '+str(obj))
 	#print (obj)print(bg)
 	for i in xrange(n):
@@ -44,13 +44,14 @@ def RTT_Heu(index, n, bin, pres, ares, load, price):
 			print bres
 			ob=search(pb, price, bg, lres, bres, ares[i], rem, i, bin, n )
 			obj+=ob
-			#print ('1 '+str(obj))
+			print ('1 '+str(obj))
 		elif pr<ares[i]:
-			print ("intex "+str(i))
+			print ("intex >"+str(i))
+			print bres
 			rem_load=load[i]-lres[i]+min(0,pb[i])
 			print ("rem "+str(i)+" "+str(rem_load))
 			extra=ares[i]-pr
-			print(str(i)+" "+str(extra))
+			#print(str(i)+" "+str(extra))
 			if bg[i]>0:
 				#print(extra)
 				ex_bg=min(bg[i],extra)
@@ -59,7 +60,7 @@ def RTT_Heu(index, n, bin, pres, ares, load, price):
 				obj-=(ex_bg)*price[i]
 				extra-=ex_bg
 				#print(str(extra)+" "+str(i))
-				#print("2 "+str(obj))
+				print("2 "+str(obj))
 				#print(obj)
 			if extra>0:
 				ch_amt=20-max(0,pb[i])
@@ -67,7 +68,7 @@ def RTT_Heu(index, n, bin, pres, ares, load, price):
 				#print ('ch_amt '+str(ch_amt))
 				ld_f=min(max(0,extra-ch_amt), rem_load)
 				obj-=ld_f*price[i]
-				#print('3 '+str(obj))
+				print('3 '+str(obj))
 				print(str(i)+" "+str(extra))
 				load[i]-=ld_f
 				extra-=ld_f
@@ -75,7 +76,7 @@ def RTT_Heu(index, n, bin, pres, ares, load, price):
 					
 					ob=alloc(price, bg, load, pb, bres, lres, i, n, extra)
 					obj-=ob
-					#print("4 "+str(obj))
+					print("4 "+str(obj))
 	return obj
 def alloc(price, bg, load, pb, bres, lres, i, n, extra):
 	pri=[(ix,pr) for ix,pr in zip(range(n),price)]
@@ -140,6 +141,7 @@ def search(pb, price, bg, lres, bres, ares_v, rem, i, bin, n ):
 			pb[i]-=bres[i]
 			bres[i]=0
 			bs=bstate(pb, bin, i)
+			print "bs "+str(bs)
 			if bs>0:
 				print pb
 				serve=min([rem_load, bs, pb[i]+30])
@@ -172,10 +174,16 @@ def search(pb, price, bg, lres, bres, ares_v, rem, i, bin, n ):
 				
 				jin+=1
 				charge=min(20-pb[min_in],-bs)
+				#print "charge "+str(charge)
 				if pb[min_in]+charge>0:
-					chr=min(pb[min_in],0)+charge
-					bres[min_in]=max(bres[min_in]-chr,0)
-					bg[min_in]+=chr
+					if pb[min_in]>=0:
+						bg[min_in]+=charge
+					else:
+						chr=pb[min_in]+charge
+						bg[min_in]=chr
+
+					#bres[min_in]=max(bres[min_in]-chr,0)
+					
 				pb[min_in]+=charge
 				bs+=charge
 				rem-=charge
